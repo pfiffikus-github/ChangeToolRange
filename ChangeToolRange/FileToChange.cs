@@ -195,4 +195,5 @@ namespace ChangeToolRange
         public decimal OrgToolRangeValue { get; private set; }
         public int OrgToolCallValue { get; private set; }
     }
+
 }
